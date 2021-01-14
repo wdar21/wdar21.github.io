@@ -1,0 +1,9 @@
+title: Learning to Generate 3D Shapes and Scenes
+email: msavva@sfu.ca
+description: Website for the Workshop on Learning to Generate 3D Shapes and Scenes at CVPR 2021
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
