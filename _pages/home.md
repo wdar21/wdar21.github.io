@@ -109,11 +109,12 @@ acknowledgements: ""
   </div>
 </div><br>
 
-<!--
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Schedule</h2>
+    <p>Coming soon...</p>
+<!--
     <p>
       In the table of events below, links labeled "Video" redirect to pre-recorded talks.
       If an event does not have a "Video" link, then it is a live session.
@@ -124,8 +125,12 @@ acknowledgements: ""
     <p>
       For links to the content for the posters and spotlight presentations, please see the "Accepted Papers" section below.
     </p>
+-->
   </div>
 </div>
+
+
+<!--
 <div class="row">
   <div class="col-xs-12">
      <table class="table table-striped">
@@ -265,6 +270,7 @@ acknowledgements: ""
   </div>
 </div>
 
+<!--
 <br>
 <div class="row" id="accepted">
   <div class="col-md-12">
