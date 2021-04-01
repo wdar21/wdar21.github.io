@@ -376,7 +376,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="http://csse.szu.edu.cn/staff/ruizhenhu/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ruizhen.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="http://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu</a></b> is an Assistant Professor at Shenzhen University and Deputy Director of the Visual Computing Research Center (VCC). She obtained her Ph.D. degree in Applied Math under the supervision of Prof. Ligang Liu in June 2015 at Zhejiang University. She spent two years visiting the GrUVi Lab in the School of Computing Science at Simon Fraser University, under the supervision of Prof. Hao (Richard) Zhang. Her research interests are in computer graphics, with a recent focus on applying machine learning to advance the understanding and generative modeling of visual data including 3D shapes and indoor scenes.
+      <b><a href="http://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu</a></b> is an Associate Professor at Shenzhen University and Deputy Director of the Visual Computing Research Center (VCC). She obtained her Ph.D. degree in Applied Math under the supervision of Prof. Ligang Liu in June 2015 at Zhejiang University. She spent two years visiting the GrUVi Lab in the School of Computing Science at Simon Fraser University, under the supervision of Prof. Hao (Richard) Zhang. Her research interests are in computer graphics, with a recent focus on applying machine learning to advance the understanding and generative modeling of visual data including 3D shapes and indoor scenes.
     </p>
   </div>
 </div><br>
