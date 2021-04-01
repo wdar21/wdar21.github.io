@@ -11,8 +11,8 @@ acknowledgements: ""
 ---
 
 <br>
-<div class="row header-row">
-  <div class="col-xs-12 header-img">  
+<div class="row">
+  <div class="col-xs-12">
     <center><h1>Learning to Generate 3D Shapes and Scenes</h1></center>
     <center><h2>CVPR 2021 Workshop</h2></center>
     <center><span style="font-weight:400;">June 2021</span></center>
@@ -34,9 +34,6 @@ acknowledgements: ""
 
 <!-- <b>Please give us your feedback on how the workshop went using <a href=''>this Google form</a>.</b> -->
 
-<!--
-
-<br>
 <div class="row" id="intro">
   <div class="col-xs-12">
     <h2>Introduction</h2>
@@ -45,16 +42,10 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      The past several years have seen an explosion of interest in generative modeling: unsupervised models which learn to synthesize new elements from the training data domain. Such models have been used to breathtaking effect for generating realistic images, especially of human faces, which are in some cases indistinguishable from reality. The unsupervised latent representations learned by these models can also prove powerful when used as feature sets for supervised learning tasks.
-    </p>
-    <p>
-      Thus far, the vision community's attention has mostly focused on generative models of 2D images. However, in computer graphics, there has been a recent surge of activity in generative models of three-dimensional content: learnable models which can synthesize novel 3D objects, or even larger scenes composed of multiple objects. As the vision community turns from passive internet-images based vision toward more <i>embodied</i> vision tasks, these kinds of 3D generative models become increasingly important: as unsupervised feature learners, as training data synthesizers, as a platform to study 3D representations for 3D vision tasks, and as a way of equipping an embodied agent with a 3D `imagination' about the kinds of objects and scenes it might encounter.
-    </p>
-    <p>
-     With this workshop, we aim to bring together researchers working on generative models of 3D shapes and scenes with researchers and practitioners who can use these generative models to improve embodied vision tasks. For our purposes, we define ``generative model'' to include methods that synthesize geometry unconditionally as well as from sensory inputs (e.g. images), language, or other high-level specifications. Vision tasks that can benefit from such models include scene classification and segmentation, 3D reconstruction, human activity recognition, robotic visual navigation, question answering, and more.
+     This workshop aims to bring together researchers working on generative models of 3D shapes and scenes with researchers and practitioners who use these generative models in a variety of research areas. For our purposes, we define "generative model" to include methods that synthesize geometry unconditionally as well as from sensory inputs (e.g. images), language, or other high-level specifications. Vision tasks that can benefit from such models include scene classification and segmentation, 3D reconstruction, human activity recognition, robotic visual navigation, question answering, and more.
     </p>
   </div>
-</div> <br>   
+</div> <br>
 
 <div class="row" id="cfp">
   <div class="col-xs-12">
@@ -64,26 +55,28 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      <span style="font-weight:500;">Call for papers:</span> We invite novel full papers of 4 to 6 pages (extended abstracts are not allowed) for work on tasks related to data-driven 3D generative modeling or tasks leveraging generated 3D content.
+      <span style="font-weight:500;">Call for papers:</span> We invite papers of up to 8 pages for work on tasks related to data-driven 3D generative modeling or tasks leveraging generated 3D content.
       Paper topics may include but are not limited to:
     </p>
     <ul>
       <li>Generative models for 3D shape and 3D scene synthesis</li>
       <li>Generating 3D shapes and scenes from real world data (images, videos, or scans)</li>
       <li>Representations for 3D shapes and scenes</li>
-      <li>Unsupervised feature learning for embodied vision tasks via 3D generative models</li>
-      <li>Training data synthesis/augmentation for embodied vision tasks via 3D generative models</li>
+      <li>Completion of 3D scenes or objects in 3D scenes</li>
+      <li>Unsupervised feature learning for vision tasks via 3D generative models</li>
+      <li>Training data synthesis/augmentation for vision tasks via 3D generative models</li>
     </ul>
     <p>
-      <span style="font-weight:500;">Submission:</span> we encourage submissions of up to 6 pages excluding references and acknowledgements.
+      <span style="font-weight:500;">Submission:</span> we encourage submissions of up to 8 pages excluding references and acknowledgements.
       The submission should be in the CVPR format.
       Reviewing will be single blind.
-      Accepted works will be published in the CVPR 2020 proceedings (online/app, IEEE Xplore, and CVF open access).
-      Due to the archival nature of these publications, we are looking for work that has not been published before.
-      Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:learn3dg@gmail.com">learn3dg@gmail.com</a></span>
+      Accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
+      We welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main CVPR conference.
+      Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:3dscenegeneration@gmail.com">3dscenegeneration@gmail.com</a></span>
+      Please mention in your email if your submission has already been accepted for publication (and the name of the conference).
     </p>
   </div>
-</div><br>
+</div>
 
 <div class="row" id="dates">
   <div class="col-xs-12">
@@ -97,25 +90,26 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>March 30 2020 - AoE time (UTC -12)</td>
+          <td>May 17 2021 - AoE time (UTC -12)</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>April 13 2020</td>
+          <td>May 31 2021</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>April 20 2020</td>
+          <td>June 7 2021</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>June 14 2020</td>
+          <td>TBD, June 19-25 2021</td>
         </tr>
       </tbody>
     </table>
   </div>
 </div><br>
 
+<!--
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
@@ -354,6 +348,7 @@ acknowledgements: ""
     Poster Session: <a href='https://drive.google.com/open?id=1q3Ov6ORXD5OLwVKQmuttjdWaCczN2LoO'>Poster</a> | <a href='http://cvpr20.com/event/bsp-net-generating-compact-meshes-via-binary-space-partitioning-3/'>Zoom/chat</a>
   </div>
 </div>
+-->
 
 <br>
 <div class="row" id="speakers">
@@ -364,72 +359,72 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://people.eecs.berkeley.edu/~malik/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/jitendra.gif" | prepend:site.baseurl }}"></a>
+    <a href="https://www.cs.cmu.edu/~katef/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/katerina.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a></b> received the B.Tech degree in Electrical Engineering from Indian Institute of Technology, Kanpur in 1980 and the PhD degree in Computer Science from Stanford University in 1985. In January 1986, he joined the university of California at Berkeley, where he is currently the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. Since January 2018, he is also Research Director and Site Lead of Facebook AI Research in Menlo Park. Prof. Malik's research group has worked on many different topics in computer vision, computational modeling of human vision, computer graphics and the analysis of biological images. Several well-known concepts and algorithms arose in this research, such as anisotropic diffusion, normalized cuts, high dynamic range imaging, shape contexts and R-CNN. He has mentored more than 60 PhD students and postdoctoral fellows. His publications have received numerous best paper awards, including five test of time awards - the Longuet-Higgins Prize for papers published at CVPR (twice) and the Helmholtz Prize for papers published at ICCV (three times). He received the 2013 IEEE PAMI-TC Distinguished Researcher in Computer Vision Award, the 2014 K.S. Fu Prize from the International Association of Pattern Recognition, the 2016 ACM-AAAI Allen Newell Award, the 2018 IJCAI Award for Research Excellence in AI, and the 2019 IEEE Computer Society Computer Pioneer Award. He is a fellow of the IEEE and the ACM. He is a member of the National Academy of Engineering and the National Academy of Sciences, and a fellow of the American Academy of Arts and Sciences.
+      <b><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki</a></b> is an Assistant Professor in the Machine Learning Department at Carnegie Mellon. Prior to joining MLD's faculty she worked as a post doctoral researcher first at UC Berkeley working with Jitendra Malik and then at Google Research in Mountain View working with the video group. Katerina is interested in building machines that understand the stories that videos portray, and, inversely, in using videos to teach machines about the world. The pen-ultimate goal is to build a machine that understands movie plots, and the ultimate goal is to build a machine that would want to watch Bergman over this.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.cs.utoronto.ca/~fidler/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/sanja.jpg" | prepend:site.baseurl }}"></a>
+    <a href="http://csse.szu.edu.cn/staff/ruizhenhu/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ruizhen.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.cs.utoronto.ca/~fidler/">Sanja Fidler</a></b> is an Assistant Professor at University of Toronto, and a Director of AI at NVIDIA, leading a research lab in Toronto. Prior coming to Toronto, in 2012/2013, she was a Research Assistant Professor at Toyota Technological Institute at Chicago, an academic institute located in the campus of University of Chicago. She did her postdoc with Prof. Sven Dickinson at University of Toronto in 2011/2012. She finished her PhD in 2010 at University of Ljubljana in Slovenia in the group of Prof. Ales Leonardis. In 2010, she was visiting Prof. Trevor Darrell's group at UC Berkeley and ICSI. 
+      <b><a href="http://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu</a></b> is an Assistant Professor at Shenzhen University and Deputy Director of the Visual Computing Research Center (VCC). She obtained her Ph.D. degree in Applied Math under the supervision of Prof. Ligang Liu in June 2015 at Zhejiang University. She spent two years visiting the GrUVi Lab in the School of Computing Science at Simon Fraser University, under the supervision of Prof. Hao (Richard) Zhang. Her research interests are in computer graphics, with a recent focus on applying machine learning to advance the understanding and generative modeling of visual data including 3D shapes and indoor scenes.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.cs.purdue.edu/homes/aliaga/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/aliaga.png" | prepend:site.baseurl }}"></a>
+    <a href="https://www.cs.tau.ac.il/~hanocka/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/rana.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.cs.purdue.edu/homes/aliaga/">Daniel Aliaga</a></b> does research primarily in the area of 3D computer graphics but overlaps with computer vision and visualization while also having strong multi-disciplinary collaborations outside of computer science. His research activities are divided into three groups: a) his pioneering work in the multi-disciplinary area of inverse modeling and design; b) his first-of-its-kind work in codifying information into images and surfaces, and c) his compelling work in a visual computing framework including high-quality 3D acquisition methods. Dr. Aliaga’s inverse modeling and design is particularly focused at digital city planning applications that provide innovative “what-if” design tools enabling urban stake holders from cities worldwide to automatically integrate, process, analyze, and visualize the complex interdependencies between the urban form, function, and the natural environment.
+      <b><a href="https://www.cs.tau.ac.il/~hanocka/">Rana Hanocka</a></b> is a Ph.D. candidate under the supervision of Daniel Cohen-Or and Raja Giryes at Tel Aviv University. She interested in the combination of computer graphics and machine learning. Specifically, she is interested in using deep learning and exploring neural representations for manipulating, analyzing, and understanding 3D shapes.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://people.cs.umass.edu/~kalo/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/vangelis.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://roozbehm.info/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/roozbeh.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://people.cs.umass.edu/~kalo/">Evangelos Kalogerakis</a></b> is an Associate Professor Computer Science at the University of Massachussetts Amherst. His research deals with the development of visual computing and machine learning techniques that help people to easily create and process representations of the 3D visual world, including 3D models of objects and scenes, 3D scans, animations, shape collections, and images. His research is supported by NSF awards and donations from Adobe. He was a postdoctoral researcher at Stanford University from 2010 to 2012 (advised by Leo Guibas and Vladlen Koltun). He obtained his PhD from the University of Toronto in 2010 (advised by Aaron Hertzmann and Karan Singh). He graduated from the department of Electrical and Computer Engineering, Technical University of Crete in 2005 (undergraduate thesis advised by Stavros Christodoulakis).
+      <b><a href="https://roozbehm.info/">Roozbeh Mottaghi</a></b> is the Research Manager of the PRIOR team at Allen Institute for AI and an Affiliate Associate Professor in Paul G. Allen School of Computer  Science & Engineering at the  University  of  Washington. Prior to joining AI2, he was a post-doctoral researcher at the Computer Science Department at Stanford University. He obtained his PhD in Computer Science in 2013from University of California, Los Angeles.  His research is mainly focused on Computer Vision and Machine Learning.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://jiajunwu.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/jiajun.png" | prepend:site.baseurl }}"></a>
+    <a href="http://arkitus.com/research/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ali.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://jiajunwu.com/">Jiajun Wu</a></b> is a Visiting Faculty Researcher at Google Research, New York City, working with Noah Snavely. In Fall 2020, He will join Stanford University as an Assistant Professor of Computer Science. He studies machine perception, reasoning, and its interaction with the physical world, drawing inspiration from human cognition. He completed my PhD at MIT, advised by Bill Freeman and Josh Tenenbaum, and his undergraduate degrees from Tsinghua University, working with Zhuowen Tu. He has also spent time at the research labs of Microsoft, Facebook, and Baidu.
+      <b><a href="http://arkitus.com/research/">S. M. Ali Eslami</a></b> is a Staff Research Scientist at Google DeepMind working on problems related to artificial intelligence. His group's research is focused on figuring out how we can get computers to learn with less supervision. Previously he was a post-doctoral researcher at Microsoft Research Cambridge. He did his PhD at the University of Edinburgh, where he was a Carnegie scholar working with Christopher Williams. During his PhD, he was also a visiting researcher at Oxford University working with Andrew Zisserman.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="http://www.vovakim.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/vova.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://kevinkaixu.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/kevin.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="http://www.vovakim.com/">Vladimir Kim</a></b> is a Senior Research Scientist at Adobe Research Seattle. He works on geometry analysis algorithms at the intersection of graphics, vision, and machine learning, enabling novel interfaces for creative tasks. His recent research focuses on making it easier to understand, model, manipulate, and process geometric data such as models of 3D objects, interior environments, articulated characters, and fonts.
+      <b><a href="https://kevinkaixu.net/">Kai (Kevin) Xu</a></b> is an Associate Professor at the School of Computer Science, National University of Defense Technology, where he received his PhD in 2011. He conducted visiting research at Simon Fraser University (2008-2010) and Princeton University (2017-2018). His research interests include geometry processing and geometric modeling, especially on data-driven approaches to the problems in those directions, as well as 3D geometry-based vision and its robotic applications. He has co-organized several courses and tutorials on those topics at prestigious venues such as SIGGRAPH and Eurographics.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/georgia.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://www.cs.utexas.edu/~huangqx/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/qixing.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://gkioxari.github.io/">Georgia Gkioxari</a></b> is a research scientist at FAIR. She received her PhD from UC Berkeley, where she was advised by Jitendra Malik. She did her bachelors in ECE at NTUA in Athens, Greece, where she worked with Petros Maragos. In the past, she has spent time at Google Brain and Google Research, where she worked with Navdeep Jaitly and Alexander Toshev.
+      <b><a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang</a></b> is an Assistant Professor of Computer Science at the University of Texas at Austin. He obtained his PhD in Computer Science from Stanford University in 2012. From 2012 to 2014 he was a postdoctoral research scholar at Stanford University. From 2014 to 2016 he was a Research Assistant Professor at Toyota Technological Institute at Chicago. He received his MS and BS in Computer Science from Tsinghua University. He has also interned at Google Street View, Google Research and Adobe Research. His research spans computer vision, computer graphics, computational biology and machine learning.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://paulguerrero.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/paul.png" | prepend:site.baseurl }}"></a>
+    <a href="https://www2.cs.sfu.ca/~haoz/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/richard.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://paulguerrero.net/">Paul Guerrero</a></b> recently joined Adobe Research in London, working on the analysis of shapes and irregular structures, such as graphs, meshes, or vector graphics, by combining methods from machine learning, optimization, and computational geometry. Previously, he was a post-doctoral researcher at the Smart Geometry Processing Group, UCL. He completed my PhD at the Insitute for Computer Graphics and Algorithms, Vienna University of Technology, and at the Visual Computing Center in KAUST.
+      <b><a href="https://www2.cs.sfu.ca/~haoz/">Hao (Richard) Zhang</a></b> is a Distinguished University Professor at Simon Fraser University. He obtained his PhD from the University of Toronto, and M.Math and B.Math degrees from Waterloo. His research is in computer graphics with special interests in geometric modeling, shape analysis, 3D vision, geometric deep learning, as well as computational design and fabrication. He has published more than 150 papers on these topics and methods from three of his papers on geometry processing have been adopted by CGAL, the open-source Computational Geometry Algorithms Library. Awards won by Richard include an NSERC Discovery accelerator Supplement Award in 2014, a Google Faculty Research Award in 2019, as well as faculty grants/gifts from Adobe and Autodesk. He and his students have won the CVPR 2020 Best Student Paper Award and best paper awards at SGP 2008 and CAD/Graphics 2017.
     </p>
   </div>
 </div><br>
@@ -442,14 +437,24 @@ acknowledgements: ""
   </div>
 </div>
 
-<div class="row">
+<div class="row text-center">
   <div class="col-xs-2">
-    <a href="https://dritchie.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/daniel.png" | prepend:site.baseurl }}">
+    <a href="https://manyili12345.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/manyi.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://dritchie.github.io/">Daniel Ritchie</a>
-      <h6>Brown University</h6>
+      <a href="https://manyili12345.github.io/">Manyi Li</a>
+      <h6>Simon Fraser University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://www.cs.utexas.edu/~yzp12/">
+      <img class="people-pic" src="{{ "/static/img/people/zhenpei.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.cs.utexas.edu/~yzp12/">Zhenpei Yang</a>
+      <h6>UT Austin</h6>
     </div>
   </div>
 
@@ -474,18 +479,14 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-2">
-    <a href="https://www.cs.utexas.edu/~huangqx/">
-      <img class="people-pic" src="{{ "/static/img/people/qixing.png" | prepend:site.baseurl }}">
+    <a href="https://dritchie.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/daniel.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang</a>
-      <h6>UT Austin</h6>
+      <a href="https://dritchie.github.io/">Daniel Ritchie</a>
+      <h6>Brown University</h6>
     </div>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-xs-2">
     <a href="http://msavva.github.io/">
@@ -497,6 +498,9 @@ acknowledgements: ""
     </div>
   </div>
 
+</div>
+
+<!-- <div class="row">
   <div class="col-xs-2">
     <a href="https://kevinkaixu.net/">
       <img class="people-pic" src="{{ "/static/img/people/kevin.png" | prepend:site.baseurl }}">
@@ -506,7 +510,6 @@ acknowledgements: ""
       <h6>NUDT</h6>
     </div>
   </div>
-  
   <div class="col-xs-2">
     <a href="https://www.cs.sfu.ca/~haoz/">
       <img class="people-pic" src="{{ "/static/img/people/richard.png" | prepend:site.baseurl }}">
@@ -516,8 +519,7 @@ acknowledgements: ""
       <h6>Simon Fraser University</h6>
     </div>
   </div>
-
-</div>
+</div> -->
 
 <hr>
 
@@ -539,4 +541,3 @@ acknowledgements: ""
 
 <br>
 
--->
