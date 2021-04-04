@@ -15,8 +15,8 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Learning to Generate 3D Shapes and Scenes</h1></center>
     <center><h2>CVPR 2021 Workshop</h2></center>
-    <center><span style="font-weight:400;">June 2021</span></center>
-    <center><span style="color:#e74c3c;font-weight:400;">Date and time TBD</span></center>
+    <center><span style="font-weight:400;">June 25th 2021 AM PDT</span></center>
+    <center><span style="color:#e74c3c;font-weight:400;"></span></center>
     <br/>
   </div>
 </div>
