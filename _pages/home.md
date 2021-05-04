@@ -194,7 +194,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>12:15pm - 1:00pm</td>
-          <td>Panel Discussion</td>
+          <td>Panel Discussion (speakers & panelists)</td>
           <td></td>
         </tr>
       </tbody>
@@ -291,7 +291,7 @@ acknowledgements: ""
 <br>
 <div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Invited Speakers</h2>
+    <h2>Invited Speakers & Panelists</h2>
   </div>
 </div><br>
 
