@@ -113,7 +113,7 @@ acknowledgements: ""
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Schedule</h2>
-    <p>Coming soon...</p>
+    <p>All times in CDT Central Daylight Time (UTC-05:00)</p>
 <!--
     <p>
       In the table of events below, links labeled "Video" redirect to pre-recorded talks.
@@ -130,140 +130,72 @@ acknowledgements: ""
 </div>
 
 
-<!--
 <div class="row">
   <div class="col-xs-12">
      <table class="table table-striped">
       <tbody>
         <tr>
-          <td>8:45am - 9:00am</td>
+          <td>9:00am - 9:15am</td>
           <td>Welcome and Introduction</td>
           <td></td>
-          <td><a href='http://cvpr20.com/event/welcome-introduction-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
-          <td>9:00am - 9:25am</td>
+          <td>9:15am - 9:40am</td>
           <td>
-          Invited Talk 1 (Daniel Aliaga)
+          Invited Talk 1 (Ruizhen Hu)
           <br/>
-          <i>Urban Scene Generation</i>
+          <i>Title: TBA</i>
           </td>
-          <td><a href='https://www.youtube.com/watch?v=0WpAPrP8uXk'>Video</a></td>
-          <td><a href='http://cvpr20.com/event/invited-talk-1-w45/'>Zoom/chat</a></td>
+          <td></td>
         </tr>
         <tr>
-          <td>9:25am - 9:50am</td>
+          <td>9:40am - 10:05am</td>
           <td>
-          Invited Talk 2 (Evangelos Kalogerakis)
+          Invited Talk 2 (S.M. Ali Eslami)
           <br/>
-          <i>What Can Go Here?</i>
+          <i>Title: TBA</i>
           </td>
-          <td><a href='https://www.youtube.com/watch?v=lfd7Y1syMA4'>Video</a></td>
-          <td><a href='http://cvpr20.com/event/invited-talk-2-w45/'>Zoom/chat</a></td>
-        </tr>
-        <tr>
-          <td>9:50am - 10:10am</td>
-          <td>Spotlight Talks (Poster Session 1)</td>
-          <td></td>
           <td></td>
         </tr>
         <tr>
-          <td>10:10am - 10:55am</td>
-          <td>Poster Session 1</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>10:55am - 11:20am</td>
-          <td>
-          Invited Talk 3 (Georgia Gkioxari)
+          <td>10:05am - 10:30am</td>
+          <td>Invited Talk 3 (Rana Hanocka)
           <br/>
-          <i>Beyond 2D Visual Recognition</i>
+          <i>Title: TBA</i>
           </td>
-          <td><a href='https://www.youtube.com/watch?v=GT3vbpSrFW8'>Video</a></td>
-          <td><a href='http://cvpr20.com/event/invited-talk-3-w45/'>Zoom/chat</a></td>
+          <td></td>
         </tr>
         <tr>
-          <td>11:20am - 11:45am</td>
-          <td>Invited Talk 4 (Jitendra Malik)</td>
-          <td><a href='https://www.youtube.com/watch?v=TY6AUYSEyCk'>Video</a></td>
-          <td><a href='http://cvpr20.com/event/invited-talk-4-w45/'>Zoom/chat</a></td>
+          <td>10:30am - 10:40am</td>
+          <td>Spotlight Talks</td>
+          <td></td>
         </tr>
         <tr>
-          <td>11:45am - 12:00pm</td>
+          <td>10:40am - 11:25am</td>
+          <td>Poster Session</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>11:25am - 11:50am</td>
           <td>
-          3D-FRONT Dataset Announcement
+          Invited Talk 4 (Katerina Fragkiadaki)
           <br/>
-          <a href='https://pages.tmall.com/wow/cab/tianchi/promotion/alibaba-3d-scene-dataset'>Dataset website</a>
+          <i>Title: TBA</i>
           </td>
-          <td><a href='https://www.youtube.com/watch?v=1DNLCcALEE0'>Video</a></td>
-          <td><a href='http://cvpr20.com/event/invited-talk-4-w45/'>Zoom/chat</a></td>
-        </tr>
-        <tr>
-          <td>12:00pm - 1:00pm</td>
-          <td>Lunch Break</td>
-          <td></td>
           <td></td>
         </tr>
         <tr>
-          <td>1:00pm - 1:25pm</td>
-          <td>
-          Invited Talk 5 (Paul Guerrero)
+          <td>11:50am - 12:15pm</td>
+          <td>Invited Talk 5 (Roozbeh Mottaghi)
           <br/>
-          <i>Structuring Shapes and Shape Distributions</i>
+          <i>Title: TBA</i>
           </td>
-          <td><a href='https://www.youtube.com/watch?v=Er2sA-lfsI8'>Video</a></td>
-          <td><a href='http://cvpr20.com/event/invited-talk-5-w45/'>Zoom/chat</a></td>
-        </tr>
-        <tr>
-          <td>1:25pm - 1:50pm</td>
-          <td>
-          Invited Talk 6 (Vladimir Kim)
-          <br/>
-          <i>Neural Mesh Processing</i>
-          </td>
-          <td><a href='https://www.youtube.com/watch?v=vdN9JTndQ04'>Video</a></td>
-          <td><a href='http://cvpr20.com/event/invited-talk-6-w45/'>Zoom/chat</a></td>
-        </tr>
-        <tr>
-          <td>1:50pm - 2:10pm</td>
-          <td>Spotlight Talks (Poster Session 2)</td>
-          <td></td>
           <td></td>
         </tr>
         <tr>
-          <td>2:10pm - 2:55pm</td>
-          <td>Poster Session 2</td>
+          <td>12:15pm - 1:00pm</td>
+          <td>Panel Discussion</td>
           <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>2:55pm - 3:20pm</td>
-          <td>
-          Invited Talk 7 (Jiajun Wu)
-          <br/>
-          <i>Program Synthesis for 3D Scene Understanding and Manipulation</i>
-          </td>
-          <td><a href='https://www.youtube.com/watch?v=g7U7aarMHU0'>Video</a></td>
-          <td><a href='http://cvpr20.com/event/invited-talk-7-w45/'>Zoom/chat</a></td>
-        </tr>
-        <tr>
-          <td>3:20pm - 3:45pm</td>
-          <td>
-          Invited Talk 8 (Sanja Fidler)
-          <br/>
-          <i>A.I. for Robotics Simulation</i>
-          </td>
-          <td><a href='https://www.youtube.com/watch?v=W4VdbXonb-k'>Video</a></td>
-          <td><a href='http://cvpr20.com/event/invited-talk-8-w45/'>Zoom/chat</a></td>
-        </tr>
-        <tr>
-          <td>3:45pm - 4:30pm</td>
-          <td>
-          Panel Discussion
-          </td>
-          <td><a href='https://www.youtube.com/watch?v=kXJ9KWzA52I'>Video</a></td>
-          <td><a href='http://cvpr20.com/event/panel-discussion-w45/'>Zoom/chat</a></td>
         </tr>
       </tbody>
     </table>
