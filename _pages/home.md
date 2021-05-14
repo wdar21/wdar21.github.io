@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Learning to Generate 3D Shapes and Scenes</h1></center>
     <center><h2>CVPR 2021 Workshop</h2></center>
-    <center><span style="font-weight:400;">June 25th 2021 AM PDT</span></center>
+    <center><span style="font-weight:400;">June 25th 2021 AM CDT</span></center>
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
     <br/>
   </div>
@@ -90,7 +90,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>May 17 2021 - AoE time (UTC -12)</td>
+          <td>May 24 2021 - AoE time (UTC -12)</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
@@ -102,7 +102,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>TBD, June 19-25 2021</td>
+          <td>June 25 2021</td>
         </tr>
       </tbody>
     </table>
