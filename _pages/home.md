@@ -142,7 +142,7 @@ acknowledgements: ""
         <tr>
           <td>9:15am - 9:40am</td>
           <td>
-          Invited Talk 1 (Ruizhen Hu)
+          Invited Talk 1 (Kai (Kevin) Xu)
           <br/>
           <i>Title: TBA</i>
           </td>
