@@ -166,15 +166,15 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>10:30am - 11:00am</td>
+          <td>10:30am - 11:25am</td>
           <td>Paper Spotlight Talks</td>
           <td></td>
         </tr>
-        <tr>
-          <td>11:00am - 11:25am</td>
+        <!-- <tr>
+          <td>11:10am - 11:25am</td>
           <td>Break</td>
           <td></td>
-        </tr>
+        </tr> -->
         <tr>
           <td>11:25am - 11:50am</td>
           <td>
