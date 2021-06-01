@@ -166,13 +166,13 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>10:30am - 10:40am</td>
-          <td>Spotlight Talks</td>
+          <td>10:30am - 11:00am</td>
+          <td>Paper Spotlight Talks</td>
           <td></td>
         </tr>
         <tr>
-          <td>10:40am - 11:25am</td>
-          <td>Poster Session</td>
+          <td>11:00am - 11:25am</td>
+          <td>Break</td>
           <td></td>
         </tr>
         <tr>
@@ -304,14 +304,14 @@ acknowledgements: ""
   </div>
 </div><br>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-12">
     <a href="http://csse.szu.edu.cn/staff/ruizhenhu/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ruizhen.png" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="http://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu</a></b> is an Associate Professor at Shenzhen University and Deputy Director of the Visual Computing Research Center (VCC). She obtained her Ph.D. degree in Applied Math under the supervision of Prof. Ligang Liu in June 2015 at Zhejiang University. She spent two years visiting the GrUVi Lab in the School of Computing Science at Simon Fraser University, under the supervision of Prof. Hao (Richard) Zhang. Her research interests are in computer graphics, with a recent focus on applying machine learning to advance the understanding and generative modeling of visual data including 3D shapes and indoor scenes.
     </p>
   </div>
-</div><br>
+</div><br> -->
 
 <div class="row">
   <div class="col-md-12">
