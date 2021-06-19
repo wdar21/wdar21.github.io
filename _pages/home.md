@@ -23,16 +23,11 @@ acknowledgements: ""
 
 <hr>
 
-<!-- <div class="row" id="">
-  <div class="col-md-12">
-    <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">
-    <p> Image credit: [1, 2, 7, 12, 6, 4, 5]</p>
-  </div>
-</div> -->
+<b>Submit questions for the closing panel discussion using this google form: <a href='https://forms.gle/G5JCiKA2MmLogMiA9'>https://forms.gle/G5JCiKA2MmLogMiA9</a>.</b>
 
-<!-- <b>Submit questions for the closing panel discussion using <a href=''>this Google form</a>.</b> -->
+<!-- <b>We would like to get your thoughts and opinions on datasets for learning to generate 3D shapes and 3D scenes. Please fill out this short survey: <a href='https://forms.gle/F9EtS4RCraoLtmwA6'>https://forms.gle/F9EtS4RCraoLtmwA6</a>.</b> -->
 
-<!-- <b>Please give us your feedback on how the workshop went using <a href=''>this Google form</a>.</b> -->
+<!-- <b>Please give us your feedback on how the workshop went using this Google form: <a href='https://forms.gle/utMpEnF4hmUcR19S7'>https://forms.gle/utMpEnF4hmUcR19S7</a>.</b> -->
 
 <div class="row" id="intro">
   <div class="col-xs-12">
@@ -114,18 +109,6 @@ acknowledgements: ""
   <div class="col-xs-12">
     <h2>Schedule</h2>
     <p>All times in CDT Central Daylight Time (UTC-05:00)</p>
-<!--
-    <p>
-      In the table of events below, links labeled "Video" redirect to pre-recorded talks.
-      If an event does not have a "Video" link, then it is a live session.
-      After a live session finishes, a "Video" link will be added which redirects to the Zoom recording of the session.
-      The links labeled "Zoom/chat" redirect to the CVPR internal webpage for the corresponding schedule item.
-      These pages require a CVPR registration to access (to prevent Zoom-bombing).
-    </p>
-    <p>
-      For links to the content for the posters and spotlight presentations, please see the "Accepted Papers" section below.
-    </p>
--->
   </div>
 </div>
 
@@ -202,7 +185,7 @@ acknowledgements: ""
   </div>
 </div>
 
-<!--
+
 <br>
 <div class="row" id="accepted">
   <div class="col-md-12">
@@ -210,83 +193,44 @@ acknowledgements: ""
   </div>
 </div>
 
-<div class="row">
-  <br/>
+<div class="row text-center">
   <div class="col-md-12">
-    <h3>Poster Session 1 (10:10am - 10:55am)</h3>
+    <hr><br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0001-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href='https://drive.google.com/file/d/1ugipZxc2kSe1OtqVCdJTEGYUwQmtMpXK/view?usp=sharing'>From Real to Synthetic and Back: Synthesizing Training Data for Multi-Person Scene Understanding</a></span>
     <br/>
-    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=17ogMjO6xBE8UBa3Mszeea5jzqO2pLRpG'>VoronoiNet: General Functional Approximators with Local Support</a></span><br>
-    <i>Francis Williams, Jérôme Parent-Lévesque, Derek Nowrouzezahrai, Daniele Panozzo,  Kwang Moo Yi, Andrea Tagliasacchi</i>
+    <i>Igor Kviatkovsky, Nadav Bhonker, Gerard Medioni</i>
     <br/>
-    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=6fBpL_sXHoE'>Video</a> | <a href='https://drive.google.com/open?id=18vSGWiKRpNkucO9K7B2YmowbiAYmcIsR'>Slides</a> | <a href='http://cvpr20.com/event/voronoinet-general-functional-approximators-with-local-support/'>Zoom/chat</a>
+    <a href='https://drive.google.com/file/d/1ugipZxc2kSe1OtqVCdJTEGYUwQmtMpXK/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/16DBkUu5PAWNPfIUJJMdze1DN8zdWFB9n/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr><br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0002-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href='https://drive.google.com/file/d/1FrTPoG0U-q7nCtL0oQhlQCBeCxjSUdh5/view?usp=sharing'>Deep Mesh Prior: Unsupervised Mesh Restoration using Graph Convolutional Networks</a></span>
     <br/>
-    Poster Session: <a href='https://drive.google.com/open?id=1p3NWvTzGpHVC44-cSeUqLPQhbXKPdlh0'>Poster</a> | <a href='http://cvpr20.com/event/voronoinet-general-functional-approximators-with-local-support-2/'>Zoom/chat</a>
+    <i>Shota Hattori, Tatsuya Yatagawa, Yutaka Ohtake, Hiromasa Suzuki</i>
     <br/>
+    <a href='https://drive.google.com/file/d/1FrTPoG0U-q7nCtL0oQhlQCBeCxjSUdh5/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1Wv_KR7P3OBXdyB4OdvHymUCxO1GvJfEZ/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr><br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0003-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href='https://drive.google.com/file/d/1TnK_pJ8qbyut0qhwyXLS0CJOV8ke5fWi/view?usp=sharing'>Adaptive Multiplane Image Generation from a Single Internet Picture</a></span>
     <br/>
-    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=13a5EnRBaP4ElCfKimQf_3S9EVt1hHiKO'>Deep Octree-based CNNs with Output-Guided Skip Connections for 3D Shape and Scene Completion</a></span><br>
-    <i>Peng-Shuai Wang, Yang Liu, Xin Tong</i>
+    <i>Diogo C. Luvizon, Gustavo Sutter P. Carvalho, Andreza A. dos Santos, Jhonatas S. Conceicao,<br/>Jose L. Flores-Campana, Luis G. L. Decker, Marcos R. Souza, Helio Pedrini, Antonio Joia, Otavio A. B. Penatti</i>
     <br/>
-    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=DvKXjfKRNDs'>Video</a> | <a href='https://drive.google.com/open?id=1ouKgG4B6T7VXDq3ITGQJwaL46yhxLsO8'>Slides</a> | <a href='http://cvpr20.com/event/deep-octree-based-cnns-with-output-guided-skip-connections-for-3d-shape-and-scene-completion/'>Zoom/chat</a>
+    <a href='https://drive.google.com/file/d/1TnK_pJ8qbyut0qhwyXLS0CJOV8ke5fWi/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1v1Hy30gLrszxVYg1vpcr1W6fqGNsukD_/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr><br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0004-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href='https://drive.google.com/file/d/15Ln64WaRAsFGcoNX4H09LWHGrn0IIWiq/view?usp=sharing'>Unconstrained Scene Generation with Locally Conditioned Radiance Fields</a></span>
     <br/>
-    Poster Session: <a href='https://drive.google.com/open?id=1IQX75T2iymTyNifDhafrkZwQk8Sw_vxU'>Poster</a> | <a href='http://cvpr20.com/event/deep-octree-based-cnns-with-output-guided-skip-connections-for-3d-shape-and-scene-completion-2/'>Zoom/chat</a>
+    <i>Terrance DeVries, Miguel Angel Bautista, Nitish Srivastava, Graham W. Taylor, Joshua M. Susskind</i>
     <br/>
-    <br/>
-    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1xsAI_qIJ6nVFWXhgVvI1N2VHhOsA7Bfj'>PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes</a></span><br>
-    <i>Rundi Wu, Yixin Zhuang, Kai Xu, Hao Zhang, Baoquan Chen</i>
-    <br/>
-    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=TYW0nDoLDFc'>Video</a> | <a href='https://drive.google.com/open?id=1L_oslAqgJYzFqsHmKIyeDWTqj3yYlBTG'>Slides</a> | <a href='http://cvpr20.com/event/pq-net-a-generative-part-seq2seq-network-for-3d-shapes-2/'>Zoom/chat</a>
-    <br/>
-    Poster Session: <a href='https://drive.google.com/open?id=125bfvxNBlDEpHF3bANMXa59bsdmU9sl2'>Poster</a> | <a href='http://cvpr20.com/event/pq-net-a-generative-part-seq2seq-network-for-3d-shapes-3/'>Zoom/chat</a>
-    <br/>
-    <br/>
-    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1ljzE3-m_I69uf1RJ3YYytyBdBzhjQMfJ'>Generalized Autoencoder for Volumetric Shape Generation</a></span><br>
-    <i>Yanran Guan, Tansin Jahan, Oliver van Kaick</i>
-    <br/>
-    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=s2-6mkVrHPs'>Video</a> | <a href='http://cvpr20.com/event/generalized-autoencoder-for-volumetric-shape-generation/'>Zoom/chat</a>
-    <br/>
-    Poster Session: <a href='https://drive.google.com/open?id=1OTMQaSUYFkAfcKVbFy4QOr9NLTQhr0uw'>Poster</a> | <a href='http://cvpr20.com/event/generalized-autoencoder-for-volumetric-shape-generation-2/'>Zoom/chat</a>
+    <a href='https://drive.google.com/file/d/15Ln64WaRAsFGcoNX4H09LWHGrn0IIWiq/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/15Ln64WaRAsFGcoNX4H09LWHGrn0IIWiq/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
   </div>
 </div>
 
-<div class="row">
-  <br/>
-  <br/>
-  <div class="col-md-12">
-    <h3>Poster Session 2 (2:10pm - 2:55pm)</h3>
-    <br/>
-    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1nyd0_3UHSUNugGc55ISTzUwBcSgzk03z'>Topology-Aware Single-Image 3D Shape Reconstruction</a></span><br>
-    <i>Qimin Chen, Vincent Nguyen, Feng Han, Raimondas Kiveris, Zhuowen Tu</i>
-    <br/>
-    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=lLdlX8oWDUI'>Video</a> | <a href='http://cvpr20.com/event/topology-aware-single-image-3d-shape-reconstruction/'>Zoom/chat</a>
-    <br/>
-    Poster Session: <a href='https://drive.google.com/open?id=15pXfqHKaS5LCgzWKSkL2329IwF-CmXCS'>Poster</a> | <a href='http://cvpr20.com/event/topology-aware-single-image-3d-shape-reconstruction-2/'>Zoom/chat</a>
-    <br/>
-    <br/>
-    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1rEbvz5zLG6NqDvGuO9x-NdCl0i62S5Fo'>Geometry to the Rescue: 3D Instance Reconstruction from a Cluttered Scene</a></span><br>
-    <i>Lin Li, Salman Khan, Nick Barnes</i>
-    <br/>
-    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=mxvCUapHZF4'>Video</a> |  <a href='http://cvpr20.com/event/geometry-to-the-rescue-3d-instance-reconstruction-from-a-cluttered-scene/'>Zoom/chat</a>
-    <br/>
-    Poster Session: <a href='https://drive.google.com/open?id=1e78vCO8EsEcPrkg1bSCZbKsNxc3iQflX'>Poster</a> | <a href='http://cvpr20.com/event/geometry-to-the-rescue-3d-instance-reconstruction-from-a-cluttered-scene-2/'>Zoom/chat</a>
-    <br/>
-    <br/>
-    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1sPLHqJ9VToHOhKPbP-VPfNvjWp-nLj10'>Mesh Variational Autoencoders with Edge Contraction Pooling</a></span><br>
-    <i>Yu-Jie Yuan, Yu-Kun Lai, Jie Yang,  Qi Duan, Hongbo Fu, Lin Gao</i>
-    <br/>
-    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=2pvh38j80jo'>Video</a> | <a href='https://drive.google.com/open?id=1wyIu_-M7N5oRkefn8m3lbSiVDr7p6iPt'>Slides</a> | <a href='http://cvpr20.com/event/mesh-variational-autoencoders-with-edge-contraction-pooling/'>Zoom/chat</a>
-    <br/>
-    Poster Session: <a href='https://drive.google.com/open?id=1S_gxxJDYVjmpaiRTwN917hESgwA9TLrt'>Poster</a> | <a href='http://cvpr20.com/event/mesh-variational-autoencoders-with-edge-contraction-pooling-2/'>Zoom/chat</a>
-    <br/>
-    <br/>
-    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1kRsNlcAmgEKHmgFuRIJBj3mjBZl3-5RH'>BSP-Net: Generating Compact Meshes via Binary Space Partitioning</a></span><br>
-    <i>Zhiqin Chen, Andrea Tagliasacchi, Hao Zhang</i>
-    <br/>
-    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=hXH1vbWG5xg'>Video</a> | <a href='https://drive.google.com/open?id=1rMraafBCV41PM_K7NMo_Y06bCbtNJKLO'>Slides</a> | <a href='http://cvpr20.com/event/bsp-net-generating-compact-meshes-via-binary-space-partitioning-2/'>Zoom/chat</a>
-    <br/>
-    Poster Session: <a href='https://drive.google.com/open?id=1q3Ov6ORXD5OLwVKQmuttjdWaCczN2LoO'>Poster</a> | <a href='http://cvpr20.com/event/bsp-net-generating-compact-meshes-via-binary-space-partitioning-3/'>Zoom/chat</a>
-  </div>
-</div>
--->
 
 <br>
 <div class="row" id="speakers">
@@ -303,15 +247,6 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
-
-<!-- <div class="row">
-  <div class="col-md-12">
-    <a href="http://csse.szu.edu.cn/staff/ruizhenhu/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ruizhen.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="http://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu</a></b> is an Associate Professor at Shenzhen University and Deputy Director of the Visual Computing Research Center (VCC). She obtained her Ph.D. degree in Applied Math under the supervision of Prof. Ligang Liu in June 2015 at Zhejiang University. She spent two years visiting the GrUVi Lab in the School of Computing Science at Simon Fraser University, under the supervision of Prof. Hao (Richard) Zhang. Her research interests are in computer graphics, with a recent focus on applying machine learning to advance the understanding and generative modeling of visual data including 3D shapes and indoor scenes.
-    </p>
-  </div>
-</div><br> -->
 
 <div class="row">
   <div class="col-md-12">
@@ -437,27 +372,6 @@ acknowledgements: ""
   </div>
 
 </div>
-
-<!-- <div class="row">
-  <div class="col-xs-2">
-    <a href="https://kevinkaixu.net/">
-      <img class="people-pic" src="{{ "/static/img/people/kevin.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://kevinkaixu.net/">Kai (Kevin) Xu</a>
-      <h6>NUDT</h6>
-    </div>
-  </div>
-  <div class="col-xs-2">
-    <a href="https://www.cs.sfu.ca/~haoz/">
-      <img class="people-pic" src="{{ "/static/img/people/richard.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.cs.sfu.ca/~haoz/">Hao (Richard) Zhang</a>
-      <h6>Simon Fraser University</h6>
-    </div>
-  </div>
-</div> -->
 
 <hr>
 
