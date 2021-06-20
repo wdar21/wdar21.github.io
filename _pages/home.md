@@ -375,6 +375,17 @@ acknowledgements: ""
 
 <hr>
 
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Prior workshops in this series</h2>
+    <a href="https://learn3dgen.github.io/">CVPR 2020: Learning 3D Generative Models</a><br/>
+    <a href="https://3dscenegen.github.io/">CVPR 2019: 3D Scene Generation</a><br/>
+  </div>
+</div>
+
+<br/>
+<br/>
+
 {% if page.acknowledgements %}
 <div class="row">
   <div class="col-xs-12">
