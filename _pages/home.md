@@ -227,6 +227,14 @@ acknowledgements: ""
     <i>Terrance DeVries, Miguel Angel Bautista, Nitish Srivastava, Graham W. Taylor, Joshua M. Susskind</i>
     <br/>
     <a href='https://drive.google.com/file/d/15Ln64WaRAsFGcoNX4H09LWHGrn0IIWiq/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/15Ln64WaRAsFGcoNX4H09LWHGrn0IIWiq/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr><br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0005-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href='https://drive.google.com/file/d/1pWGNahqRT_s_vNL69rs5TYJRB16MnJre/view?usp=sharing'>Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks</a></span>
+    <br/>
+    <i>He Wang, Zetian Jiang, Li Yi, Kaichun Mo, Hao Su, Leonidas Guibas</i>
+    <br/>
+    <a href='https://drive.google.com/file/d/1pWGNahqRT_s_vNL69rs5TYJRB16MnJre/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1RF77Zp6cQgoU0tf33Wjthx0D6tr3IYAJ/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
   </div>
 </div>
