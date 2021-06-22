@@ -63,9 +63,9 @@ acknowledgements: ""
         <tr>
           <td>9:15am - 9:40am</td>
           <td>
-          Invited Talk 1 (Kai (Kevin) Xu)
+          Invited Talk 1 (Rana Hanocka)
           <br/>
-          <i>Title: Deep Hierarchical Models for 3D Shape Understanding and Generation</i>
+          <i>Title: Neural 3D Reconstruction</i>
           </td>
           <td></td>
         </tr>
@@ -80,9 +80,9 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>10:05am - 10:30am</td>
-          <td>Invited Talk 3 (Rana Hanocka)
+          <td>Invited Talk 3 (Kai (Kevin) Xu)
           <br/>
-          <i>Title: TBA</i>
+          <i>Title: Deep Hierarchical Models for 3D Shape Understanding and Generation</i>
           </td>
           <td></td>
         </tr>
@@ -142,7 +142,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://www.cs.tau.ac.il/~hanocka/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/rana.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.cs.tau.ac.il/~hanocka/">Rana Hanocka</a></b> is a Ph.D. candidate under the supervision of Daniel Cohen-Or and Raja Giryes at Tel Aviv University. She interested in the combination of computer graphics and machine learning. Specifically, she is interested in using deep learning and exploring neural representations for manipulating, analyzing, and understanding 3D shapes.
+      <b><a href="https://www.cs.tau.ac.il/~hanocka/">Rana Hanocka</a></b> is an Assistant Professor of Computer Science at the University of Chicago. She received her Ph.D. under the supervision of Daniel Cohen-Or and Raja Giryes at Tel Aviv University. She is interested in the combination of computer graphics and machine learning. Specifically, she is interested in using deep learning and exploring neural representations for manipulating, analyzing, and understanding 3D shapes.
     </p>
   </div>
 </div><br>
