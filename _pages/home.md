@@ -25,7 +25,7 @@ acknowledgements: ""
 
 <b>Submit questions for the closing panel discussion using this google form: <a href='https://forms.gle/G5JCiKA2MmLogMiA9'>https://forms.gle/G5JCiKA2MmLogMiA9</a>.</b>
 
-<!-- <b>We would like to get your thoughts and opinions on datasets for learning to generate 3D shapes and 3D scenes. Please fill out this short survey: <a href='https://forms.gle/F9EtS4RCraoLtmwA6'>https://forms.gle/F9EtS4RCraoLtmwA6</a>.</b> -->
+<!-- <b>We would like to get your thoughts and opinions on academic datasets for learning to generate 3D shapes and 3D scenes. Please fill out this short survey: <a href='https://forms.gle/F9EtS4RCraoLtmwA6'>https://forms.gle/F9EtS4RCraoLtmwA6</a>.</b> -->
 
 <!-- <b>Please give us your feedback on how the workshop went using this Google form: <a href='https://forms.gle/utMpEnF4hmUcR19S7'>https://forms.gle/utMpEnF4hmUcR19S7</a>.</b> -->
 
@@ -41,68 +41,6 @@ acknowledgements: ""
     </p>
   </div>
 </div> <br>
-
-<div class="row" id="cfp">
-  <div class="col-xs-12">
-    <h2>Call for Papers</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      <span style="font-weight:500;">Call for papers:</span> We invite papers of up to 8 pages for work on tasks related to data-driven 3D generative modeling or tasks leveraging generated 3D content.
-      Paper topics may include but are not limited to:
-    </p>
-    <ul>
-      <li>Generative models for 3D shape and 3D scene synthesis</li>
-      <li>Generating 3D shapes and scenes from real world data (images, videos, or scans)</li>
-      <li>Representations for 3D shapes and scenes</li>
-      <li>Completion of 3D scenes or objects in 3D scenes</li>
-      <li>Unsupervised feature learning for vision tasks via 3D generative models</li>
-      <li>Training data synthesis/augmentation for vision tasks via 3D generative models</li>
-    </ul>
-    <p>
-      <span style="font-weight:500;">Submission:</span> we encourage submissions of up to 8 pages excluding references and acknowledgements.
-      The submission should be in the CVPR format.
-      Reviewing will be single blind.
-      Accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
-      We welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main CVPR conference.
-      Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:3dscenegeneration@gmail.com">3dscenegeneration@gmail.com</a></span>
-      Please mention in your email if your submission has already been accepted for publication (and the name of the conference).
-    </p>
-  </div>
-</div>
-
-<div class="row" id="dates">
-  <div class="col-xs-12">
-    <h2>Important Dates</h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>Paper Submission Deadline</td>
-          <td>May 24 2021 - AoE time (UTC -12)</td>
-        </tr>
-        <tr>
-          <td>Notification to Authors</td>
-          <td>May 31 2021</td>
-        </tr>
-        <tr>
-          <td>Camera-Ready Deadline</td>
-          <td>June 7 2021</td>
-        </tr>
-        <tr>
-          <td>Workshop Date</td>
-          <td>June 25 2021</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div><br>
 
 
 <div class="row" id="schedule">
@@ -127,7 +65,7 @@ acknowledgements: ""
           <td>
           Invited Talk 1 (Kai (Kevin) Xu)
           <br/>
-          <i>Title: TBA</i>
+          <i>Title: Deep Hierarchical Models for 3D Shape Understanding and Generation</i>
           </td>
           <td></td>
         </tr>
@@ -185,62 +123,6 @@ acknowledgements: ""
   </div>
 </div>
 
-
-<br>
-<div class="row" id="accepted">
-  <div class="col-md-12">
-    <h2>Accepted Papers</h2>
-  </div>
-</div>
-
-<div class="row text-center">
-  <div class="col-md-12">
-    <hr><br/>
-    <span style="font-weight:bold;">
-    <img src="{{ "/static/img/poster/0001-poster.png" | prepend:site.baseurl }}" width='700'><br/>
-    <a href='https://drive.google.com/file/d/1ugipZxc2kSe1OtqVCdJTEGYUwQmtMpXK/view?usp=sharing'>From Real to Synthetic and Back: Synthesizing Training Data for Multi-Person Scene Understanding</a></span>
-    <br/>
-    <i>Igor Kviatkovsky, Nadav Bhonker, Gerard Medioni</i>
-    <br/>
-    <a href='https://drive.google.com/file/d/1ugipZxc2kSe1OtqVCdJTEGYUwQmtMpXK/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/16DBkUu5PAWNPfIUJJMdze1DN8zdWFB9n/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
-    <br/><hr><br/>
-    <span style="font-weight:bold;">
-    <img src="{{ "/static/img/poster/0002-poster.png" | prepend:site.baseurl }}" width='700'><br/>
-    <a href='https://drive.google.com/file/d/1FrTPoG0U-q7nCtL0oQhlQCBeCxjSUdh5/view?usp=sharing'>Deep Mesh Prior: Unsupervised Mesh Restoration using Graph Convolutional Networks</a></span>
-    <br/>
-    <i>Shota Hattori, Tatsuya Yatagawa, Yutaka Ohtake, Hiromasa Suzuki</i>
-    <br/>
-    <a href='https://drive.google.com/file/d/1FrTPoG0U-q7nCtL0oQhlQCBeCxjSUdh5/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1Wv_KR7P3OBXdyB4OdvHymUCxO1GvJfEZ/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
-    <br/><hr><br/>
-    <span style="font-weight:bold;">
-    <img src="{{ "/static/img/poster/0003-poster.png" | prepend:site.baseurl }}" width='700'><br/>
-    <a href='https://drive.google.com/file/d/1TnK_pJ8qbyut0qhwyXLS0CJOV8ke5fWi/view?usp=sharing'>Adaptive Multiplane Image Generation from a Single Internet Picture</a></span>
-    <br/>
-    <i>Diogo C. Luvizon, Gustavo Sutter P. Carvalho, Andreza A. dos Santos, Jhonatas S. Conceicao,<br/>Jose L. Flores-Campana, Luis G. L. Decker, Marcos R. Souza, Helio Pedrini, Antonio Joia, Otavio A. B. Penatti</i>
-    <br/>
-    <a href='https://drive.google.com/file/d/1TnK_pJ8qbyut0qhwyXLS0CJOV8ke5fWi/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1v1Hy30gLrszxVYg1vpcr1W6fqGNsukD_/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
-    <br/><hr><br/>
-    <span style="font-weight:bold;">
-    <img src="{{ "/static/img/poster/0004-poster.png" | prepend:site.baseurl }}" width='700'><br/>
-    <a href='https://drive.google.com/file/d/15Ln64WaRAsFGcoNX4H09LWHGrn0IIWiq/view?usp=sharing'>Unconstrained Scene Generation with Locally Conditioned Radiance Fields</a></span>
-    <br/>
-    <i>Terrance DeVries, Miguel Angel Bautista, Nitish Srivastava, Graham W. Taylor, Joshua M. Susskind</i>
-    <br/>
-    <a href='https://drive.google.com/file/d/15Ln64WaRAsFGcoNX4H09LWHGrn0IIWiq/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/15Ln64WaRAsFGcoNX4H09LWHGrn0IIWiq/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
-    <br/><hr><br/>
-    <span style="font-weight:bold;">
-    <img src="{{ "/static/img/poster/0005-poster.png" | prepend:site.baseurl }}" width='700'><br/>
-    <a href='https://drive.google.com/file/d/1pWGNahqRT_s_vNL69rs5TYJRB16MnJre/view?usp=sharing'>Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks</a></span>
-    <br/>
-    <i>He Wang, Zetian Jiang, Li Yi, Kaichun Mo, Hao Su, Leonidas Guibas</i>
-    <br/>
-    <a href='https://drive.google.com/file/d/1pWGNahqRT_s_vNL69rs5TYJRB16MnJre/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1RF77Zp6cQgoU0tf33Wjthx0D6tr3IYAJ/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
-    <br/><hr>
-  </div>
-</div>
-
-
-<br>
 <div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers & Panelists</h2>
@@ -310,6 +192,121 @@ acknowledgements: ""
   </div>
 </div><br>
 
+
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Call for Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      <span style="font-weight:500;">Call for papers:</span> We invite papers of up to 8 pages for work on tasks related to data-driven 3D generative modeling or tasks leveraging generated 3D content.
+      Paper topics may include but are not limited to:
+    </p>
+    <ul>
+      <li>Generative models for 3D shape and 3D scene synthesis</li>
+      <li>Generating 3D shapes and scenes from real world data (images, videos, or scans)</li>
+      <li>Representations for 3D shapes and scenes</li>
+      <li>Completion of 3D scenes or objects in 3D scenes</li>
+      <li>Unsupervised feature learning for vision tasks via 3D generative models</li>
+      <li>Training data synthesis/augmentation for vision tasks via 3D generative models</li>
+    </ul>
+    <p>
+      <span style="font-weight:500;">Submission:</span> we encourage submissions of up to 8 pages excluding references and acknowledgements.
+      The submission should be in the CVPR format.
+      Reviewing will be single blind.
+      Accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
+      We welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main CVPR conference.
+      Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:3dscenegeneration@gmail.com">3dscenegeneration@gmail.com</a></span>
+      Please mention in your email if your submission has already been accepted for publication (and the name of the conference).
+    </p>
+  </div>
+</div>
+
+<div class="row" id="dates">
+  <div class="col-xs-12">
+    <h2>Important Dates</h2>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>Paper Submission Deadline</td>
+          <td>May 24 2021 - AoE time (UTC -12)</td>
+        </tr>
+        <tr>
+          <td>Notification to Authors</td>
+          <td>May 31 2021</td>
+        </tr>
+        <tr>
+          <td>Camera-Ready Deadline</td>
+          <td>June 7 2021</td>
+        </tr>
+        <tr>
+          <td>Workshop Date</td>
+          <td>June 25 2021</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<br>
+<div class="row" id="accepted">
+  <div class="col-md-12">
+    <h2>Accepted Papers</h2>
+  </div>
+</div>
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <hr><br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0001-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href='https://drive.google.com/file/d/1ugipZxc2kSe1OtqVCdJTEGYUwQmtMpXK/view?usp=sharing'>From Real to Synthetic and Back: Synthesizing Training Data for Multi-Person Scene Understanding</a></span>
+    <br/>
+    <i>Igor Kviatkovsky, Nadav Bhonker, Gerard Medioni</i>
+    <br/>
+    <a href='https://drive.google.com/file/d/1ugipZxc2kSe1OtqVCdJTEGYUwQmtMpXK/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/16DBkUu5PAWNPfIUJJMdze1DN8zdWFB9n/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr><br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0002-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href='https://drive.google.com/file/d/1FrTPoG0U-q7nCtL0oQhlQCBeCxjSUdh5/view?usp=sharing'>Deep Mesh Prior: Unsupervised Mesh Restoration using Graph Convolutional Networks</a></span>
+    <br/>
+    <i>Shota Hattori, Tatsuya Yatagawa, Yutaka Ohtake, Hiromasa Suzuki</i>
+    <br/>
+    <a href='https://drive.google.com/file/d/1FrTPoG0U-q7nCtL0oQhlQCBeCxjSUdh5/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1Wv_KR7P3OBXdyB4OdvHymUCxO1GvJfEZ/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr><br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0003-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href='https://drive.google.com/file/d/1TnK_pJ8qbyut0qhwyXLS0CJOV8ke5fWi/view?usp=sharing'>Adaptive Multiplane Image Generation from a Single Internet Picture</a></span>
+    <br/>
+    <i>Diogo C. Luvizon, Gustavo Sutter P. Carvalho, Andreza A. dos Santos, Jhonatas S. Conceicao,<br/>Jose L. Flores-Campana, Luis G. L. Decker, Marcos R. Souza, Helio Pedrini, Antonio Joia, Otavio A. B. Penatti</i>
+    <br/>
+    <a href='https://drive.google.com/file/d/1TnK_pJ8qbyut0qhwyXLS0CJOV8ke5fWi/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1v1Hy30gLrszxVYg1vpcr1W6fqGNsukD_/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr><br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0004-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href='https://drive.google.com/file/d/15Ln64WaRAsFGcoNX4H09LWHGrn0IIWiq/view?usp=sharing'>Unconstrained Scene Generation with Locally Conditioned Radiance Fields</a></span>
+    <br/>
+    <i>Terrance DeVries, Miguel Angel Bautista, Nitish Srivastava, Graham W. Taylor, Joshua M. Susskind</i>
+    <br/>
+    <a href='https://drive.google.com/file/d/15Ln64WaRAsFGcoNX4H09LWHGrn0IIWiq/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/15Ln64WaRAsFGcoNX4H09LWHGrn0IIWiq/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr><br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0005-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href='https://drive.google.com/file/d/1pWGNahqRT_s_vNL69rs5TYJRB16MnJre/view?usp=sharing'>Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks</a></span>
+    <br/>
+    <i>He Wang, Zetian Jiang, Li Yi, Kaichun Mo, Hao Su, Leonidas Guibas</i>
+    <br/>
+    <a href='https://drive.google.com/file/d/1pWGNahqRT_s_vNL69rs5TYJRB16MnJre/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1RF77Zp6cQgoU0tf33Wjthx0D6tr3IYAJ/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+  </div>
+</div>
 
 
 <div class="row" id="organizers">
