@@ -109,7 +109,7 @@ acknowledgements: ""
           <td>11:50am - 12:15pm</td>
           <td>Invited Talk 5 (Roozbeh Mottaghi)
           <br/>
-          <i>Title: TBA</i>
+          <i>Title: Learning Representations via Interaction with the 3D World</i>
           </td>
           <td></td>
         </tr>
