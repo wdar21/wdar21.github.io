@@ -74,7 +74,7 @@ acknowledgements: ""
           <td>
           Invited Talk 2 (S.M. Ali Eslami)
           <br/>
-          <i>Title: TBA</i>
+          <i>Title: Priors, Representation and Rendering for 3D Vision</i>
           </td>
           <td></td>
         </tr>
