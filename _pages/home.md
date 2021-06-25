@@ -23,6 +23,8 @@ acknowledgements: ""
 
 <hr>
 
+<b>Join YouTube live stream at <a href='https://youtu.be/fEPYHLXOZKQ'>https://youtu.be/fEPYHLXOZKQ</a>.</b>
+
 <b>Submit questions for the closing panel discussion using this google form: <a href='https://forms.gle/G5JCiKA2MmLogMiA9'>https://forms.gle/G5JCiKA2MmLogMiA9</a>.</b>
 
 <b>We would like to get your thoughts and opinions on academic datasets for learning to generate 3D shapes and 3D scenes. Please fill out this short survey: <a href='https://forms.gle/F9EtS4RCraoLtmwA6'>https://forms.gle/F9EtS4RCraoLtmwA6</a>.</b>
