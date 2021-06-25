@@ -101,7 +101,7 @@ acknowledgements: ""
           <td>
           Invited Talk 4 (Katerina Fragkiadaki)
           <br/>
-          <i>Title: TBA</i>
+          <i>Title: Learning to see by predicting views with  3D neural feature bottleneck networks</i>
           </td>
           <td></td>
         </tr>
