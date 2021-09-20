@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "Learning to Generate 3D Shapes and Scenes"
-title: "Learning to Generate 3D Shapes and Scenes"
+urltitle:  "5th Workshop on Document Analysis and Recognition"
+title: "5th Workshop on Document Analysis and Recognition"
 categories: cvpr, workshop, computer vision, computer graphics, deep learning, generative modeling, visual learning, simulation environments, robotics, machine learning, reinforcement learning
 permalink: /
 favicon: /static/img/ico/favicon.png
@@ -13,9 +13,9 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Learning to Generate 3D Shapes and Scenes</h1></center>
-    <center><h2>CVPR 2021 Workshop</h2></center>
-    <center><span style="font-weight:400;">June 25th 2021 AM CDT</span></center>
+   <center><h1>5th Workshop on Document Analysis and Recognition</h1></center>
+   <center><h2>In Conjunction with <a href="https://iitj.ac.in/icvgip2021/">ICVGIP 2021</a></h2></center>
+   <center><span style="font-weight:400;">December 19th 2021</span></center>    
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
     <br/>
   </div>
