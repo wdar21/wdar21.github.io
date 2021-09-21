@@ -55,8 +55,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     Paper topics may include but are not limited to:
-    <br></br>
-    <ul>
+   
+  <ul>
       <li> Text Recognition, including from video sources </li>
       <li> Document Layout Analysis and Understanding </li>
       <li> Historical and Degraded Document Analysis </li>
@@ -68,10 +68,12 @@ acknowledgements: ""
       <li> Document Image Retrieval </li>
       <li> Datasets, Performance evaluation and Metrics </li>    
    </ul>
+  
    <b> Submission:</b> Please refer to manuscript preparation and submission instructions as provided <a href="https://iitj.ac.in/icvgip2021/authorGuidelines.php"> HERE </a>. <b> IMPORTANT: Do NOT submit your paper at ICVGIP main conference portal. Submit your paper at <a href="">Workshop's CMT Submission Portal</a></b>
    
   </div>
 </div>
+
 <br></br>
 
 <div class="row" id="dates">
