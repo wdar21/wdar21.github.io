@@ -43,6 +43,24 @@ acknowledgements: ""
     <h2>Invited Speakers</h2>
   </div>
 </div>
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://www.cse.iitb.ac.in/~ganesh/"><img class="people-pic" style="float:left;margin-right:50px;" src="https://github.com/wdar21/wdar21.github.io/blob/main/static/img/people/gr110x.jpg"></a>
+    <p>
+      <b><a href="https://www.cse.iitb.ac.in/~ganesh/">Ganesh Ramakrishnan</a></b>
+    </p>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="http://lluisgomez.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="http://lluisgomez.github.io/img/lluis_bg.png"></a>
+    <p>
+      <b><a href="http://lluisgomez.github.io/">LLuis Gomez</a></b>
+    </p>
+  </div>
+</div><br>
+
 <br>
 <br>
 
