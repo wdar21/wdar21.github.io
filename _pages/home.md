@@ -74,7 +74,7 @@ acknowledgements: ""
   </div>
 </div>
 
-<br></br>
+<br>
 
 <div class="row" id="dates">
   <div class="col-xs-12">
