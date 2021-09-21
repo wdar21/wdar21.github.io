@@ -50,23 +50,24 @@ acknowledgements: ""
     <h2>Call for Papers</h2>
   </div>
 </div>
+
 <div class="row">
   <div class="col-xs-12">
     <p>
       Paper topics may include but are not limited to:
     </p>
     <ul>
-      <li> Text Recognition, including from video sources
-      <li> Document Layout Analysis and Understanding
-      <li> Historical and Degraded Document Analysis
-      <li> Multilingual Document Recognition
-      <li> Document Image Compression
-      <li> Camera-captured Document Analysis
-      <li> Handwriting Recognition Technologies
-      <li> Writer/style Identification, Adaptation
-      <li> Document Image Retrieval
-      <li> Datasets, Performance evaluation and Metrics
-    
+      <li> Text Recognition, including from video sources </li>
+      <li> Document Layout Analysis and Understanding </li>
+      <li> Historical and Degraded Document Analysis </li>
+      <li> Multilingual Document Recognition </li>
+      <li> Document Image Compression </li>
+      <li> Camera-captured Document Analysis </li>
+      <li> Handwriting Recognition Technologies </li>
+      <li> Writer/style Identification, Adaptation </li>
+      <li> Document Image Retrieval </li>
+      <li> Datasets, Performance evaluation and Metrics </li>
+    <br>
     <p>
      <b> Submission:</b> Please refer to manuscript preparation and submission instructions as provided <a href="https://iitj.ac.in/icvgip2021/authorGuidelines.php"> HERE </a>. <b> IMPORTANT: Do NOT submit your paper at ICVGIP main conference portal. Submit your paper at <a href="">Workshop's CMT Submission Portal</a></b>
     </p>
