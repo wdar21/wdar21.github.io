@@ -87,7 +87,7 @@ acknowledgements: ""
       <li> Datasets, Performance evaluation and Metrics </li>    
    </ul>
   
-   <b> Submission:</b> Please refer to manuscript preparation and submission instructions as provided <a href="https://iitj.ac.in/icvgip2021/authorGuidelines.php"> HERE </a>. <b> IMPORTANT: Do NOT submit your paper at ICVGIP main conference portal. Submit your paper at <a href="">Workshop's CMT Submission Portal</a></b>
+   <b> Submission:</b> Please refer to manuscript preparation and submission instructions as provided <a href="https://iitj.ac.in/icvgip2021/authorGuidelines.php"> HERE </a>. <b> IMPORTANT: Do NOT submit your paper at ICVGIP main conference portal. Submit your paper at <a href="https://cmt3.research.microsoft.com/DAR2021">Workshop's CMT Submission Portal</a></b>
    
   </div>
 </div>
