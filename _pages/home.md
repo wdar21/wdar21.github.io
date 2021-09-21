@@ -45,7 +45,7 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.cse.iitb.ac.in/~ganesh/"><img class="people-pic" style="float:left;margin-right:50px;" src="https://github.com/wdar21/wdar21.github.io/blob/main/static/img/people/gr110x.jpg"></a>
+    <a href="https://www.cse.iitb.ac.in/~ganesh/"><img class="people-pic" style="float:left;margin-right:50px;" src="https://raw.githubusercontent.com/wdar21/wdar21.github.io/main/static/img/people/gr110x.jpg"></a>
     <p>
       <b><a href="https://www.cse.iitb.ac.in/~ganesh/">Ganesh Ramakrishnan</a></b>
     </p>
