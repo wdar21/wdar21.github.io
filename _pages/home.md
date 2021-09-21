@@ -31,7 +31,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">    
-    <p> The ability to understand the content and structure of documents as well as text that appears in the form of handwriting or scene text is     critical for intelligent systems to operate and interact with humans. With advances from research in the past few decades, the area has moved from solutions that work with highly restricted data to real-world degraded noisy document images and those acquired using hand-held cameras or handwriting data captured by mobile devices. The fifth workshop on document analysis and recognition aims to provide a platform for researchersto present techniques for solving such problems and interact with their peers in academia and industry. </p>    
+    <p> The ability to understand the content and structure of documents as well as text that appears in the form of handwriting or scene text is     critical for intelligent systems to operate and interact with humans. With advances from research in the past few decades, the area has moved from solutions that work with highly restricted data to real-world degraded noisy document images and those acquired using hand-held cameras or handwriting data captured by mobile devices. The fifth workshop on document analysis and recognition aims to provide a platform for researchers to present techniques for solving such problems and interact with their peers in academia and industry. </p>    
   </div>
 </div> 
 
