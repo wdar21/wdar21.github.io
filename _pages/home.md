@@ -28,25 +28,14 @@ acknowledgements: ""
     <h2>Introduction</h2>
   </div>
 </div>
+
 <div class="row">
-  <div class="col-xs-12">
-    <p>
-     The ability to understand the content and structure of documents as well as text that appears in the form of handwriting or scene text is     critical for intelligent systems to operate and interact with humans. With advances from research in the past few decades, the area has moved from solutions that work with highly restricted data to real-world degraded noisy document images and those acquired using hand-held cameras or handwriting data captured by mobile devices. The fifth workshop on document analysis and recognition aims to provide a platform for researchersto present techniques for solving such problems and interact with their peers in academia and industry. The topics of interest include, but are not limited to:
-    </p>
-    <ul>
-<li> Text Recognition, including from video sources
-<li> Document Layout Analysis and Understanding
-<li> Historical and Degraded Document Analysis
-<li> Multilingual Document Recognition
-<li> Document Image Compression
-<li> Camera-captured Document Analysis
-<li> Handwriting Recognition Technologies
-<li> Writer/style Identification, Adaptation
-<li> Document Image Retrieval
-<li> Datasets, Performance evaluation and Metrics
-</ul>
+  <div class="col-xs-12">    
+    <p> The ability to understand the content and structure of documents as well as text that appears in the form of handwriting or scene text is     critical for intelligent systems to operate and interact with humans. With advances from research in the past few decades, the area has moved from solutions that work with highly restricted data to real-world degraded noisy document images and those acquired using hand-held cameras or handwriting data captured by mobile devices. The fifth workshop on document analysis and recognition aims to provide a platform for researchersto present techniques for solving such problems and interact with their peers in academia and industry. </p>    
   </div>
-</div> <br>
+</div> 
+
+<br>
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
@@ -64,7 +53,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      <span style="font-weight:500;">Call for papers:</span> Paper topics may include but are not limited to:
+      Paper topics may include but are not limited to:
     </p>
     <ul>
       <li> Text Recognition, including from video sources
@@ -79,9 +68,7 @@ acknowledgements: ""
       <li> Datasets, Performance evaluation and Metrics
     </ul>
     <p>
-      <span style="font-weight:500;">Submission:</span> we encourage submissions of up to 8 pages excluding references and acknowledgements.
-      The submission should be in ICVGIP 2021 ACM format as provided <a href="">here</a>. Reviewing will be double blind.      
-      Please submit your paper at <a href="">CMT Submission Portal</a></span>
+     <b> Submission:</b> Please refer to manuscript preparation and submission instructions as provided <a href="https://iitj.ac.in/icvgip2021/authorGuidelines.php"> HERE </a>. <b> IMPORTANT: Do NOT submit your paper at ICVGIP main conference portal. Submit your paper at <a href="">Workshop's CMT Submission Portal</a></b>
     </p>
   </div>
 </div>
