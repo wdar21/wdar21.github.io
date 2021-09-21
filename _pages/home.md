@@ -126,6 +126,32 @@ acknowledgements: ""
 </div>
 
 <br>
+<br>
+
+<div class="row" id="speakers">
+  <div class="col-xs-12">
+    <h2>Organizers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://anandmishra22.github.io/"><img height=200px class="people-pic" style="float:left;margin-right:50px;" src="https://anandmishra22.github.io/files/mishra_oct15.jpg"></a>
+    <p>
+      <b><a href="https://anandmishra22.github.io/">Anand Mishra (IIT Jodhpur)</a></b>
+    </p>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://ravika.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="https://ravika.github.io/ravipic.jpeg"></a>
+    <p>
+      <b><a href="https://ravika.github.io/">Ravi Kiran Sarvadevabhatla (IIIT Hyderabad)</a></b>
+    </p>
+  </div>
+</div><br>
 
 <br>
+<br>
+
 
