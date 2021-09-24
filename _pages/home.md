@@ -106,7 +106,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>October 30 2021 - AoE time (UTC -12)</td>
+          <td>October 15 2021 - AoE time (UTC -12)</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
