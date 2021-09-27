@@ -47,10 +47,12 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://www.cse.iitb.ac.in/~ganesh/"><img class="people-pic" style="float:left;margin-right:50px;" src="https://raw.githubusercontent.com/wdar21/wdar21.github.io/main/static/img/people/gr110x.jpg"></a>
     <p>
-      <b><a href="https://www.cse.iitb.ac.in/~ganesh/">Prof. Ganesh Ramakrishnan</a></b> is currently serving as an Institute Chair Professor at the Department of Computer Science and Engineering, IIT Bombay. He is also the Professor-in-charge of  <a href="https://www.kcdh.iitb.ac.in/">Koita Centre for Digital Health</a> at IIT Bombay. His areas of research include human assisted AI/ML, AI/ML in resource constrained environments, learning with symbolic encoding of domain knowledge in ML and NLP, etc. More recently, he has been focusing his energy on organizing relevant machine learning modules for resource constrained environments into <a href="https://decile.org/">DECILE</a>. He has demonstrated the impact of such data efficient machine learning in applications such as <a href="https://www.cse.iitb.ac.in/~vidsurv">Video Analytics</a>, <a href="https://www.udaanproject.org/">machine translation end-to-end eco-system, <a href="https://www.cse.iitb.ac.in/~ocr">OCR</a>  and in <a href="https://www.cse.iitb.ac.in/~malta/">multi-modal analytics</a>. He  has received awards such as IBM Faculty Award, Dr. P.K. Patwardhan Technology Development Award, and awards from Qualcomm, Microsoft as well as IIT Bombay Impactful Research Award. He also held the J.R. Isaac Chair at IIT Bombay. Ganesh is very passionate about boosting the AI research eco-system for India and towards that, the research by him and his students as well as collaborators has resulted in startups that he has either jointly founded, has transferred technology to, or is mentoring.
+      <b><a href="https://www.cse.iitb.ac.in/~ganesh/">Prof. Ganesh Ramakrishnan</a></b> is currently serving as an Institute Chair Professor at the Department of Computer Science and Engineering, IIT Bombay. He is also the Professor-in-charge of  <a href="https://www.kcdh.iitb.ac.in/">Koita Centre for Digital Health</a> at IIT Bombay. 
     </p>
   </div>
-</div><br>
+</div>
+
+<br>
 
 <div class="row">
   <div class="col-md-12">
