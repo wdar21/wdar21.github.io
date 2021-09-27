@@ -56,7 +56,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="http://lluisgomez.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="http://lluisgomez.github.io/img/lluis_bg.png"></a>
     <p>
-      <b><a href="http://lluisgomez.github.io/">LLuis Gomez</a></b>
+      <b><a href="http://lluisgomez.github.io/">Dr. Lluís Gómez</a></b> is a Postdoctoral Researcher at the Computer Vision Center - Universitat Autonoma de Barcelona. He is a member of the Intelligent Reading Systems Group, where he works in developing algorithms to make computers read and understand textual information in unconstrained scenarios. He has done research stays at the Media Integration and Communication Center (MICC) - University of Florence, and the Intelligent Media Processing Group - Osaka Prefecture University, Japan. He has also collaborated with other prominent research groups in the organization of the ICDAR Robust Reading Competitions. His research interests include a variety of different topics in machine learning and computer vision. Currently he works on deep embedding models, multi modal self-supervised learning, joint modeling of textual and visual information, and CNN architectures for scene text understanding.
     </p>
   </div>
 </div><br>
