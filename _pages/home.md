@@ -47,7 +47,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://www.cse.iitb.ac.in/~ganesh/"><img class="people-pic" style="float:left;margin-right:50px;" src="https://raw.githubusercontent.com/wdar21/wdar21.github.io/main/static/img/people/gr110x.jpg"></a>
     <p>
-      <b><a href="https://www.cse.iitb.ac.in/~ganesh/">Prof. Ganesh Ramakrishnan</a></b> is currently serving as an Institute Chair Professor at the Department of Computer Science and Engineering, IIT Bombay. He is also the Professor-in-charge of  <a href="https://www.kcdh.iitb.ac.in/">Koita Centre for Digital Health</a> at IIT Bombay. 
+      <b><a href="https://www.cse.iitb.ac.in/~ganesh/">Prof. Ganesh Ramakrishnan</a></b> is currently serving as an Institute Chair Professor at the Department of Computer Science and Engineering, IIT Bombay. He is also the Professor-in-charge of  <a href="https://www.kcdh.iitb.ac.in/">Koita Centre for Digital Health</a> at IIT Bombay. His areas of research include human assisted AI/ML, AI/ML in resource constrained environments, learning with symbolic encoding of domain knowledge in ML and NLP, etc. More recently, he has been focusing his energy on organizing relevant machine learning modules for resource constrained environments into <a href="https://decile.org/">DECILE</a> . He has demonstrated the impact of such data efficient machine learning in applications such as <a href="https://www.cse.iitb.ac.in/~vidsurv">Video Analytics</a>
     </p>
   </div>
 </div>
