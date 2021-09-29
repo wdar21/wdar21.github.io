@@ -130,7 +130,7 @@ acknowledgements: ""
 <br>
 <br>
 
-<div class="row" id="speakers">
+<div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
@@ -152,7 +152,29 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
+<br>
+<br>
 
+<div class="row" id="pc">
+  <div class="col-xs-12">
+    <h2>Program Committee</h2>
+  </div>
+</div>
+ <ul>
+  <li>Ajeet Kumar Singh, TCS Research</li>
+<li>Chiranjoy Chattopadhyay, IIT Jodhpur        </li>
+<li>Dinesh Babu J, IIIT Bangalore                               </li>
+<li>Gurpreet S Lehal, Punjab University</li>
+<li>Minesh Mathew, IIIT Hyderabad</li>
+<li>Neelam      Sinha,IIIT Bangalore            </li>
+<li>Palaiahnakote Shivakumara, University of Malaya</li>
+<li>Praveen     Krishnan, Facebook AI   </li>
+<li>R. K. Sharma, Thapar Institute of Engineering & Technology</li>
+<li>Rohit Saluja, IIIT Hyderabad        </li>
+<li>Shankar     Gangisetty, KLE Technological University, Hubballi</li>
+<li>Shreya Goyal, IIT Jodhpur                           </li>
+<li>Suresh Sundaram, IIT Guwahati       </li>    
+ </ul>
 <br>
 <br>
 
