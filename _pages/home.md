@@ -172,7 +172,7 @@ acknowledgements: ""
 <li>R. K. Sharma, Thapar Institute of Engineering & Technology</li>
 <li>Rohit Saluja, IIIT Hyderabad        </li>
 <li>Shankar     Gangisetty, KLE Technological University, Hubballi</li>
-<li>Shreya Goyal, IIT Jodhpur                           </li>
+<li>Shreya Goyal, Robert Bosch Centre for Data Science and AI, IIT Madras                           </li>
 <li>Suresh Sundaram, IIT Guwahati       </li>    
  </ul>
 <br>
