@@ -108,7 +108,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>October 15 2021, 23:59 Indian Standard Time (IST)</td>
+          <td><b>October 21 2021, 23:59 Indian Standard Time (IST) - <font color="red">EXTENDED</font></b></td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
