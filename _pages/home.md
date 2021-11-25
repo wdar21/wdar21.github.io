@@ -31,13 +31,13 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">    
-    <p> The ability to understand the content and structure of documents as well as text that appears in the form of handwriting or scene text is     critical for intelligent systems to operate and interact with humans. With advances from research in the past few decades, the area has moved from solutions that work with highly restricted data to real-world degraded noisy document images and those acquired using hand-held cameras or handwriting data captured by mobile devices. The fifth workshop on document analysis and recognition aims to provide a platform for researchers to present techniques for solving such problems and interact with their peers in academia and industry. </p>    
+    <p> The ability to understand the content and structure of documents as well as text that appears in the form of handwriting or scene text is critical for intelligent systems to operate and interact with humans. With advances from research in the past few decades, the area has moved from solutions that work with highly restricted data to real-world degraded noisy document images and those acquired using hand-held cameras or handwriting data captured by mobile devices. The fifth workshop on document analysis and recognition aims to provide a platform for researchers to present techniques for solving such problems and interact with their peers in academia and industry. </p>    
   </div>
 </div> 
 
 <br>
 
-<div class="row" id="papers">
+<div class="row" id="accepted">
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
   </div>
@@ -45,9 +45,8 @@ acknowledgements: ""
 <li> Model Compression Based Lightweight Online Signature Verification Framework, <b>Authors:</b> Chandra V sekhar (Indian Institute of Information Technology-SriCity); Balasubramanian S (SSSIHL); Viswanath P (Indian Institute of Information Technology Chittor, Sri City); Avinash Gautam (BITS Pilani)</li>
 <li> End to End Transformer based Architecture for Text Recognition from Document Images,<b>Authors:</b> Dipankar Ganguly (CDAC); Akkshita Trivedi (IIT Jodhpur); Bhupendra Kumar (CDAC Noida); Tushar Patnaik (C-DAC); Santanu Chaudhury (IIT, Delhi, India) </li>
 <li> A Hybrid Approach for Table Detection in Document Images, <b>Authors:</b> Sunil Kumar Vengalil (International Institute of Information Techology Bangalore); Kevin Xavier (Razorthink); Amith Konda Sai (International Institute of Information Technology Bangalore); Sree Koyi Harsha (IIIT Banglore); Ganesh Barma (International Institute of Information Technology, Bangalore); Neelam Sinha (IIIT Bangalore) </li>
-
-
-
+<br>
+<br>
 <div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
