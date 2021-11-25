@@ -42,9 +42,9 @@ acknowledgements: ""
     <h2>Accepted Papers</h2>
   </div>
 </div>
-<li> Model Compression Based Lightweight Online Signature Verification Framework, <b>Authors:</b> Chandra V sekhar (Indian Institute of Information Technology-SriCity)*; Balasubramanian S (SSSIHL); Viswanath P (Indian Institute of Information Technology Chittor, Sri City); Avinash Gautam (BITS Pilani)</li>
-<li> End to End Transformer based Architecture for Text Recognition from Document Images,<b>Authors:</b> Dipankar Ganguly (CDAC)*; Akkshita Trivedi (IIT Jodhpur); Bhupendra Kumar (CDAC Noida); Tushar Patnaik (C-DAC); Santanu Chaudhury (IIT, Delhi, India) </li>
-<li> A Hybrid Approach for Table Detection in Document Images, <b>Authors:</b> Sunil Kumar Vengalil (International Institute of Information Techology Bangalore)*; Kevin Xavier (Razorthink); Amith Konda Sai (International Institute of Information Technology Bangalore); Sree Koyi Harsha (IIIT Banglore); Ganesh Barma (International Institute of Information Technology, Bangalore); Neelam Sinha (IIIT Bangalore) </li>
+<li> Model Compression Based Lightweight Online Signature Verification Framework, <b>Authors:</b> Chandra V sekhar (Indian Institute of Information Technology-SriCity); Balasubramanian S (SSSIHL); Viswanath P (Indian Institute of Information Technology Chittor, Sri City); Avinash Gautam (BITS Pilani)</li>
+<li> End to End Transformer based Architecture for Text Recognition from Document Images,<b>Authors:</b> Dipankar Ganguly (CDAC); Akkshita Trivedi (IIT Jodhpur); Bhupendra Kumar (CDAC Noida); Tushar Patnaik (C-DAC); Santanu Chaudhury (IIT, Delhi, India) </li>
+<li> A Hybrid Approach for Table Detection in Document Images, <b>Authors:</b> Sunil Kumar Vengalil (International Institute of Information Techology Bangalore); Kevin Xavier (Razorthink); Amith Konda Sai (International Institute of Information Technology Bangalore); Sree Koyi Harsha (IIIT Banglore); Ganesh Barma (International Institute of Information Technology, Bangalore); Neelam Sinha (IIIT Bangalore) </li>
 
 
 
