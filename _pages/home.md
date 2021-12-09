@@ -90,7 +90,7 @@ acknowledgements: ""
        
        
         <tr>
-         <td>4:30am - 4:50pm</td>
+         <td>4:30pm - 4:50pm</td>
           <td>
           Paper Presentation - 3
           </td>
