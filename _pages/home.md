@@ -63,49 +63,7 @@ acknowledgements: ""
           </td>
           <td></td>
         </tr>
-        <tr>
-          <td>3:00pm - 3:20pm</td>
-          <td>
-          Paper Presentation -1
-          <br/>
-          <i></i>
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>3:20pm - 3:40pm</td>
-          <td>
-          Paper Presentation -2
-          <br/>
-          <i></i>
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>3:40pm - 4:30pm</td>
-          <td>
-          Invited Talk 2 (Ganesh Ramakrishnan)
-          <br/>
-          <i>Title: TBD</i>
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>4:30am - 4:50pm</td>
-          <td>
-          Paper Presentation -3
-          <br/>
-          <i>Title: TBD</i>
-          </td>
-          <td></td>
-        </tr>
-        
-               <tr>
-          <td>4:50pm - 5:00pm</td>
-          <td>Closing Remarks</td>
-          <td></td>
-        </tr>
-      </tbody>
+              </tbody>
     </table>
   </div>
 </div>
