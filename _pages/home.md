@@ -50,66 +50,59 @@ acknowledgements: ""
      <table class="table table-striped">
       <tbody>
         <tr>
-          <td>9:00am - 9:15am</td>
-          <td>Welcome and Introduction</td>
+          <td>2:00pm - 2:10pm</td>
+          <td>Welcome and Introduction by workshop chairs</td>
           <td></td>
         </tr>
         <tr>
-          <td>9:15am - 9:40am</td>
+          <td>2:10pm - 3:00pm</td>
           <td>
-          Invited Talk 1 (Rana Hanocka)
+          Invited Talk 1 (Lluis Gomez)
           <br/>
-          <i>Title: Neural 3D Reconstruction</i>
+          <i>Title: TBD</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>9:40am - 10:05am</td>
+          <td>3:00pm - 3:20pm</td>
           <td>
-          Invited Talk 2 (S.M. Ali Eslami)
+          Paper Presentation -1
           <br/>
-          <i>Title: Priors, Representation and Rendering for 3D Vision</i>
+          <i></i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>10:05am - 10:30am</td>
-          <td>Invited Talk 3 (Kai (Kevin) Xu)
-          <br/>
-          <i>Title: Deep Hierarchical Models for 3D Shape Understanding and Generation</i>
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>10:30am - 11:25am</td>
-          <td>Paper Spotlight Talks</td>
-          <td></td>
-        </tr>
-        <!-- <tr>
-          <td>11:10am - 11:25am</td>
-          <td>Break</td>
-          <td></td>
-        </tr> -->
-        <tr>
-          <td>11:25am - 11:50am</td>
+          <td>3:20pm - 3:40pm</td>
           <td>
-          Invited Talk 4 (Katerina Fragkiadaki)
+          Paper Presentation -2
           <br/>
-          <i>Title: Learning to see by predicting views with  3D neural feature bottleneck networks</i>
+          <i></i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>11:50am - 12:15pm</td>
-          <td>Invited Talk 5 (Roozbeh Mottaghi)
+          <td>3:40pm - 4:30pm</td>
+          <td>
+          Invited Talk 2 (Ganesh Ramakrishnan)
           <br/>
-          <i>Title: Learning Representations via Interaction with the 3D World</i>
+          <i>Title: TBD</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>12:15pm - 1:00pm</td>
-          <td>Panel Discussion (speakers & panelists)</td>
+          <td>4:30am - 4:50pm</td>
+          <td>
+          Paper Presentation -3
+          <br/>
+          <i>Title: TBD</i>
+          </td>
+          <td></td>
+        </tr>
+        
+               <tr>
+          <td>4:50pm - 5:00pm</td>
+          <td>Closing Remarks</td>
           <td></td>
         </tr>
       </tbody>
