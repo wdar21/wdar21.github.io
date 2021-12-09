@@ -37,10 +37,10 @@ acknowledgements: ""
 
 <br>
 
-<div class="row" id="schedule">
+<div class="row" id="'">
   <div class="col-xs-12">
     <h2>Schedule</h2>
-    <p>All times in CDT Central Daylight Time (UTC-05:00)</p>
+    <p>All times in IST</p>
   </div>
 </div>
 
@@ -49,11 +49,12 @@ acknowledgements: ""
   <div class="col-xs-12">
      <table class="table table-striped">
       <tbody>
+        
         <tr>
           <td>2:00pm - 2:10pm</td>
           <td>Welcome and Introduction by workshop chairs</td>
-          <td></td>
         </tr>
+        
         <tr>
           <td>2:10pm - 3:00pm</td>
           <td>
@@ -61,9 +62,46 @@ acknowledgements: ""
           <br/>
           <i>Title: TBD</i>
           </td>
-          <td></td>
         </tr>
-              </tbody>
+        
+           <tr>
+          <td>3:00pm - 3:20pm</td>
+          <td>
+          Paper Presentation -1
+          </td>
+        </tr>
+       
+         <tr>
+          <td>3:20pm - 3:40pm</td>
+          <td>
+          Paper Presentation - 2
+          </td>
+        </tr>
+       
+       
+        <tr>
+          <td>3:40pm - 4:30pm</td>
+          <td>
+          Invited Talk 2 (Ganesh Ramakrishnan)
+          <br/>
+          <i>Title: TBD</i>
+          </td>
+        </tr>
+       
+       
+        <tr>
+         <td>4:30am - 4:50pm</td>
+          <td>
+          Paper Presentation - 3
+          </td>
+        </tr>          
+         
+            <tr>
+          <td>4:50pm - 5:00pm</td>
+          <td>Closing Remarks</td>
+        </tr>
+        
+      </tbody>
     </table>
   </div>
 </div>
