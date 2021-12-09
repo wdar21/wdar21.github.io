@@ -37,6 +37,88 @@ acknowledgements: ""
 
 <br>
 
+<div class="row" id="schedule">
+  <div class="col-xs-12">
+    <h2>Schedule</h2>
+    <p>All times in CDT Central Daylight Time (UTC-05:00)</p>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-xs-12">
+     <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>9:00am - 9:15am</td>
+          <td>Welcome and Introduction</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>9:15am - 9:40am</td>
+          <td>
+          Invited Talk 1 (Rana Hanocka)
+          <br/>
+          <i>Title: Neural 3D Reconstruction</i>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>9:40am - 10:05am</td>
+          <td>
+          Invited Talk 2 (S.M. Ali Eslami)
+          <br/>
+          <i>Title: Priors, Representation and Rendering for 3D Vision</i>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>10:05am - 10:30am</td>
+          <td>Invited Talk 3 (Kai (Kevin) Xu)
+          <br/>
+          <i>Title: Deep Hierarchical Models for 3D Shape Understanding and Generation</i>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>10:30am - 11:25am</td>
+          <td>Paper Spotlight Talks</td>
+          <td></td>
+        </tr>
+        <!-- <tr>
+          <td>11:10am - 11:25am</td>
+          <td>Break</td>
+          <td></td>
+        </tr> -->
+        <tr>
+          <td>11:25am - 11:50am</td>
+          <td>
+          Invited Talk 4 (Katerina Fragkiadaki)
+          <br/>
+          <i>Title: Learning to see by predicting views with  3D neural feature bottleneck networks</i>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>11:50am - 12:15pm</td>
+          <td>Invited Talk 5 (Roozbeh Mottaghi)
+          <br/>
+          <i>Title: Learning Representations via Interaction with the 3D World</i>
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>12:15pm - 1:00pm</td>
+          <td>Panel Discussion (speakers & panelists)</td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+
 <div class="row" id="accepted">
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
