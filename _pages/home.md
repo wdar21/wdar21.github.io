@@ -60,7 +60,7 @@ acknowledgements: ""
           <td>
           Invited Talk 1 (Lluis Gomez)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Scene Text Beyond Reading: from simple text reading to reasoning with text</i>
           </td>
         </tr>
         
