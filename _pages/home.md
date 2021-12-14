@@ -84,7 +84,7 @@ acknowledgements: ""
           <td>
           Invited Talk 2 (Ganesh Ramakrishnan)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Data efficient Document Analysis</i>
           </td>
         </tr>
        
