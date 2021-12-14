@@ -67,7 +67,9 @@ acknowledgements: ""
            <tr>
           <td>3:00pm - 3:20pm</td>
           <td>
-          Paper Presentation -1
+          Paper Presentation - 1
+            <br/>
+            <i> Title: Model Compression Based Lightweight Online Signature Verification Framework</i>
           </td>
         </tr>
        
@@ -75,6 +77,8 @@ acknowledgements: ""
           <td>3:20pm - 3:40pm</td>
           <td>
           Paper Presentation - 2
+             <br/>
+            <i> Title: End to End Transformer based Architecture for Text Recognition from Document Images</i>
           </td>
         </tr>
        
@@ -93,6 +97,8 @@ acknowledgements: ""
          <td>4:30pm - 4:50pm</td>
           <td>
           Paper Presentation - 3
+             <br/>
+            <i> Title: A Hybrid Approach for Table Detection in Document Images</i>
           </td>
         </tr>          
          
