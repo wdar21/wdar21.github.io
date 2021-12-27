@@ -36,7 +36,7 @@ acknowledgements: ""
 </div> 
 
 <br>
-<font color=red> Click <a href="https://iitj-events.webex.com/iitj-events/lsr.php?RCID=3d4b74f8bfc4f45b3a1d31802b0b6409">HERE</a> to view a video recording of the workshop. Password: Zt9pDAGq 
+<font color=red> Click <a href="https://iitj-events.webex.com/iitj-events/lsr.php?RCID=3d4b74f8bfc4f45b3a1d31802b0b6409">HERE</a> to view a video recording of the workshop. Password: Zt9pDAGq </font>
 
 <br>
 
